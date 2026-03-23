@@ -54,6 +54,10 @@ I’m looking for internship opportunities in **AI / Python / Data** where I can
 - Build real-world AI projects
 - Grow into a specialized AI engineering role over time
 ---
+## 🌐 Languages
+- Portuguese: Native
+- English: Working proficiency (actively improving)
+---
 ## 🤝 Connect with me
 - **GitHub:** [github.com/LPRamos1](https://github.com/LPRamos1)
 - **LinkedIn:** [linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/xxxxx)

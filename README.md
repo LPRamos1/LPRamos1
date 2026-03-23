@@ -60,5 +60,5 @@ I’m looking for internship opportunities in **AI / Python / Data** where I can
 ---
 ## 🤝 Connect with me
 - **GitHub:** [github.com/LPRamos1](https://github.com/LPRamos1)
-- **LinkedIn:** [linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/xxxxx)
-- **Email:** `your-professional-email@domain.com`
+- **LinkedIn:** [linkedin.com/in/xxx](https://www.linkedin.com/in/xxxxx)
+- **Email:** `email@email.com`

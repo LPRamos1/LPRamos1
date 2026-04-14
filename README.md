@@ -41,5 +41,5 @@ Seeking an internship in AI / Python / Data Engineering to apply my skills in re
 ---
 ## 🤝 Connect with me
 - **GitHub:** [github.com/LPRamos1](https://github.com/LPRamos1)
-- **LinkedIn:** [linkedin.com/in/xxx]((https://www.linkedin.com/in/lucaspaoloramos))
+- **LinkedIn:** [(https://www.linkedin.com/in/lucaspaoloramos)]((https://www.linkedin.com/in/lucaspaoloramos))
 - **Email:** `lucaspaolo.dev@gmail.com`

@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AI](https://img.shields.io/badge/AI%20Engineering-000000?style=for-the-badge)
+![CS50](https://img.shields.io/badge/CS50-1A1A1A?style=for-the-badge)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LPRamos1&show_icons=true&theme=tokyonight)
 # Hi, I'm Lucas Paolo Ramos 👋
 
 Engineering student focused on Artificial Intelligence and Data Science.

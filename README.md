@@ -1,59 +1,35 @@
 # Hi, I'm Lucas Paolo Ramos 👋
-I'm an Engineering student currently building my AI foundation through **CS50P (completed)** and **CS50AI (in progress)**.
-My focus is to become an AI engineer through practical projects, consistent fundamentals, and strong software engineering habits.
+
+Engineering student focused on Artificial Intelligence and Data Science.
+Currently building practical skills in Python, LLMs, and AI systems through hands-on projects.
+
+## ⚙️ What I Do
+
+- Build Python-based backend and AI projects
+- Work with LLM APIs and RAG systems
+- Develop CLI tools and data processing pipelines
+- Study core CS foundations (algorithms, logic, testing)
 ---
-## 🚀 Current Focus
-- Finishing **CS50AI**
-- Building my first AI portfolio projects
-- Learning by doing with:
-  - Transformers
-  - LLM APIs
-  - Vector Databases
-  - LangChain
-  - RAG projects
-  - Streamlit apps
+
+## 🚀 Projects
+
+- 📌 IP Analyzer (CLI + API integration + data validation)
+- 📌 Text-Insight API (FastAPI service for text processing)
+- 📌 AI Logic Agents (CS50AI search + logic systems)
 ---
-## 🧠 What I already studied (beginner level)
-- Python fundamentals and project structure
-- FastAPI & Pydantic (introductory exposure)
-- Docker (introductory exposure)
-- Testing with `pytest` (basic to intermediate)
-- CLI projects, API integration, and data parsing
-> I’m still at an early stage in FastAPI/Pydantic/Docker and actively improving through projects.
+
+## 🧠 Current Focus
+
+- LLM APIs & Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- Vector Databases (Chroma, Pinecone)
+- LangChain & Streamlit apps
 ---
-## 🗺️ Learning Roadmap
-### Short-term (next weeks)
-- Finish CS50AI
-- Publish initial portfolio projects
-- Build practical projects with:
-  - Transformers
-  - LLM APIs
-  - Vector DBs
-  - LangChain
-  - RAG
-  - Streamlit
-### Mid-term (next months)
-- SQL (advanced)
-- Advanced Python
-- Better testing practices
-- NoSQL
-- Linear Algebra, Calculus (gradients), Probability
-- Classical ML, Neural Networks, Backpropagation
-- CNNs (vision), RNNs/LSTMs
-- AWS/Cloud
-- Transformers (deeper), AI Agents
+## 🎯 Goal
+
+Seeking an internship in AI / Python / Data Engineering to apply my skills in real-world systems and grow as a software engineer.
 ---
-## 📌 Featured Repository
-### CS50P Portfolio
-[CS50P-Introduction-to-Programming-with-Python](https://github.com/LPRamos1/CS50P-Introduction-to-Programming-with-Python)
-A complete progression from Python basics to a tested capstone project, documenting my learning path and coding evolution.
----
-## 🎯 Internship Goal
-I’m looking for internship opportunities in **AI / Python / Data** where I can:
-- Contribute with discipline and fast learning
-- Build real-world AI projects
-- Grow into a specialized AI engineering role over time
----
+
 ## 🌐 Languages
 - Portuguese: Native
 - English: Working proficiency (actively improving)

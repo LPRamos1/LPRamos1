@@ -21,6 +21,11 @@ Currently building practical skills in Python, LLMs, and AI systems through hand
 - 📌 IP Analyzer (CLI + API integration + data validation)
 - 📌 Text-Insight API (FastAPI service for text processing)
 - 📌 AI Logic Agents (CS50AI search + logic systems)
+
+### 🧠 AI / LLM Projects
+
+- 📌 Semantic Search with ChromaDB (vector database + semantic retrieval)
+- 📌 RAG Chatbot (ChromaDB + Groq API, retrieval-augmented generation system)
 ---
 
 ## 🧠 Current Focus

@@ -18,7 +18,7 @@ Currently building practical skills in Python, LLMs, and AI systems through hand
 
 ## 🚀 Projects
 - 📌 Text-Insight API (FastAPI | PostgreSQL | Docker)
-      A backend project focused on learning clean architecture and best practices. It features a layered structure (Service Layer), database persistence with SQLAlchemy, and a containerized environment using Docker for          consistent local development.
+  - A backend project focused on learning clean architecture and best practices. It features a layered structure (Service Layer), database persistence with SQLAlchemy, and a containerized environment using Docker for          consistent local development.
 - 📌 IP Analyzer (CLI + API integration + data validation)
 - 📌 AI Logic Agents (CS50AI search + logic systems)
 
